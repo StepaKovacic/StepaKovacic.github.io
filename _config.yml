@@ -36,6 +36,7 @@ plugins:
   - jekyll-feed
 header_pages:
   - about.markdown
+  - research.md
   - cv.md
 # Exclude from processing.
 # The following items will not be processed, by default.
