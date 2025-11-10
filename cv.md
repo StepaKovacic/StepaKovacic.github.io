@@ -22,7 +22,7 @@ permalink: /cv/
 
 - **Freelance developer**
 
-    *Scraping alghoritm development, website design, API developer*
+    *Scraping algorithm development, website design, API developer*
 
 
 - **CS SOFT, CZECHOSLOVAK GROUP**
@@ -35,5 +35,5 @@ permalink: /cv/
 ## Languages
 
 - Czech (native)
-- Englies (fluent)
+- English (fluent)
 - French (advanced)
